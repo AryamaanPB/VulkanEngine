@@ -1,0 +1,9 @@
+﻿  firstapp.cpp
+  lve_window.cpp
+  main.cpp
+D:\Vulkan Projects\VulkanTest\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Vulkan Projects\VulkanTest\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Vulkan Projects\VulkanTest\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VulkanTest.vcxproj -> D:\Vulkan Projects\VulkanTest\x64\Debug\VulkanTest.exe
